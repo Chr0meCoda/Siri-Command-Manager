@@ -20,7 +20,6 @@
  	{
  		return include( $this -> corePath . '/config/route.php' );
  	}
- 	
  	function setLocation( $Latitude, $Longitude )
  	{
  		$this -> location = array(

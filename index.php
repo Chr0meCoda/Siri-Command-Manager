@@ -28,7 +28,6 @@ echo "Erfolgreich den Befehl $text hinzugefügt!";
 </form>
 </html>";
 }
-
 function genRandomString() {
     $length = 10;
     $characters = ’0123456789abcdefghijklmnopqrstuvwxyz’;

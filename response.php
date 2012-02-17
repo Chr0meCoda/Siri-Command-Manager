@@ -1,5 +1,4 @@
 <?php
-
  include( 'core.siri.php' );
 
  $Core = new Core( );
