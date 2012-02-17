@@ -1,0 +1,5 @@
+function name( $Core ){
+	$Core -> loadObject( 'speak' );
+	$Object = new speakObject( 'antwort');
+	return array( $Object -> getArr() );
+}
