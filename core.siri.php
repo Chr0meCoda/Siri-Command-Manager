@@ -1,5 +1,4 @@
 <?php
-
  class Core
  {
  	var $response = false;
